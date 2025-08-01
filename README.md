@@ -1,4 +1,4 @@
-IoT-Based Heart Rate Monitoring System using ESP8266 & AD8232 ECG Sensor
+## IoT-Based Heart Rate Monitoring System using ESP8266 & AD8232 ECG Sensor
 
 This project demonstrates a real-time ECG and heart rate monitoring system using the **AD8232 ECG sensor** and **ESP8266 NodeMCU**, with data displayed on a **web dashboard via Blynk IoT**. It helps to measure electrical activity of the heart and monitor vitals remotely, making it ideal for personal or telehealth applications.
 
